@@ -1,0 +1,22 @@
+header
+{
+    float: initial;
+    height: 50px;
+    background-color: rgb(194, 197, 194);
+}
+body
+{
+    background-color:rgb(218, 245, 218);
+}
+ul{
+    float:right;
+    color:whitesmoke;
+    list-style-type: none;
+    letter-spacing: 1px;
+    text-indent: 10px;
+}
+li
+{
+float: left;
+color:whitesmoke;
+}
